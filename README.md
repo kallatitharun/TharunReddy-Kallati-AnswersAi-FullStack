@@ -34,7 +34,7 @@ This project is a full stack web application that allows users to interact with 
 
 ## Architecture
 
-![Architecture Diagram](Architecture_Diagram.jpg)  <!-- Replace with actual path to the diagram -->
+![Architecture Diagram](Architecture_Diagram.jpg)  
 
 ## Installation and Setup
 
@@ -47,8 +47,8 @@ This project is a full stack web application that allows users to interact with 
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/FIRSTNAME-LASTNAME-AnswersAi-Fullstack.git
-    cd FIRSTNAME-LASTNAME-AnswersAi-Fullstack
+    git clone https://github.com/kallatitharun/TharunReddy-Kallati-AnswersAi-FullStack.git
+    cd TharunReddy-Kallati-AnswersAi-FullStack
     ```
 
 2. **Set Up Environment Variables**
