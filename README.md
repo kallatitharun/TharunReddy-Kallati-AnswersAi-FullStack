@@ -41,7 +41,7 @@ This project is a full stack web application that allows users to interact with 
 ### Prerequisites
 - Docker
 - Node.js and npm
-- MongoDB or PostgreSQL
+- MongoDB
 
 ### Steps to Run Locally
 
