@@ -34,7 +34,7 @@ This project is a full stack web application that allows users to interact with 
 
 ## Architecture
 
-![Architecture Diagram](./path/to/architecture-diagram.png)  <!-- Replace with actual path to the diagram -->
+![Architecture Diagram](Architecture_Diagram.jpg)  <!-- Replace with actual path to the diagram -->
 
 ## Installation and Setup
 
